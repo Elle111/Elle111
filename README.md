@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Svitlana Gruidl 👋
 
-<!--
-**Elle111/Elle111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer specializing in Java, Spring Boot, secure backend systems, identity access management, and event-driven microservices.
 
-Here are some ideas to get you started:
+I build portfolio projects focused on:
+- Payment risk and fraud detection
+- Identity/session risk monitoring
+- Kafka-based event-driven systems
+- Spring Boot microservices
+- Observability with Prometheus and Grafana
+- Secure API design and authentication flows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Payment Risk Platform
+Enterprise-style payment processing and fraud-risk microservices platform using Java 21, Spring Boot, Kafka, PostgreSQL, Docker, and monitoring.
+
+### Fraud Detection Service
+Real-time fraud scoring service with configurable fraud rules, Kafka event processing, PostgreSQL persistence, REST APIs, Actuator, Prometheus metrics, and Postman test cases.
+
+### SentinelTrack
+Real-time identity/session risk monitoring platform for suspicious login and session activity using Kafka, Spring Boot, rule-based scoring, and React dashboard.
+
+## Tech Stack
+
+Java 21 · Spring Boot · Spring Security · Kafka · PostgreSQL · Docker · Kubernetes · Jenkins · REST APIs · OAuth2/OIDC · SAML · Okta · Prometheus · Grafana · React
